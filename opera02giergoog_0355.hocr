@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opera02giergoog_0355.png"; bbox 0 0 3609 5967; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 407 2133 1181 2210">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 407 2133 1181 2210">
+     <span class='ocr_line' id='line_1_1' title="bbox 407 2133 1181 2210; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 407 2135 619 2209; x_wconf 92' lang='lat' dir='ltr'>PUBLII</span> <span class='ocrx_word' id='word_1_2' title='bbox 662 2133 868 2207; x_wconf 88' lang='lat' dir='ltr'>OVlDll</span> <span class='ocrx_word' id='word_1_3' title='bbox 912 2134 1181 2210; x_wconf 79' lang='lat' dir='ltr'><strong>NASONlS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 620 2405 971 2472">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 620 2405 971 2472">
+     <span class='ocr_line' id='line_1_2' title="bbox 620 2405 971 2472; baseline 0.006 -2"><span class='ocrx_word' id='word_1_4' title='bbox 620 2405 971 2472; x_wconf 82' lang='lat' dir='ltr'><strong>EPISTOLARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 406 2655 1051 2767">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 406 2655 1051 2767">
+     <span class='ocr_line' id='line_1_3' title="bbox 406 2655 1051 2767; baseline -0.006 1"><span class='ocrx_word' id='word_1_5' title='bbox 406 2655 409 2660; x_wconf 83' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 545 2673 1051 2767; x_wconf 79' lang='lat' dir='ltr'>EXPONTO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 617 2959 977 3033">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 617 2959 977 3033">
+     <span class='ocr_line' id='line_1_4' title="bbox 617 2959 977 3033; baseline -0.003 -14"><span class='ocrx_word' id='word_1_7' title='bbox 617 2960 737 3020; x_wconf 80' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 758 2959 977 3033; x_wconf 83' lang='lat' dir='ltr'><strong>QUATUOR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1810 5967">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1810 5967">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1810 5967; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1810 5967; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
